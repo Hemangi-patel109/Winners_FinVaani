@@ -11,6 +11,10 @@ Your financial life is spread across banks, SIPs, loans, credit cards, etc. Even
 
 ---
 
+Live demo video link: https://drive.google.com/file/d/1Frg2a7l5u6dCzbiNLXrJjK6ONom8kDs_/view?usp=drive_link
+
+---
+
 ## 🎯 Objective
 
 Build an AI-powered assistant using Fi’s MCP Server that:
